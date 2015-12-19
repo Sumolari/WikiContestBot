@@ -1,0 +1,26 @@
+{
+  "name": "WikiContestBot",
+  "private": false,
+  "version": "0.0.1",
+  "description": "A script to get latest contributions of a set of users in different Wikipedia projects",
+  "keywords": [],
+  "dependencies": {
+    "bluebird": "~3.1.1",
+    "request-promise": "~1.0.2",
+    "colors": "~1.1.2",
+    "lodash": "~3.10.1",
+    "sprintf-js": "~1.0.3",
+    "cheerio": "~0.19.0",
+    "moment": "~2.10.6"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sumolari/WikiContestBot.git"
+  },
+  "author": "Lluís Ulzurrun de Asanza i Sàez (a.k.a Sumolari)",
+  "license": "MIT"
+}

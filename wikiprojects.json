@@ -1,0 +1,8 @@
+{
+  "es": {
+    "url_format": "https://es.wikipedia.org/w/index.php?title=Especial:Contribuciones&contribs=user&target=%s&limit=%d&namespace=0&tagfilter=&year=2015&month=-1",
+    "baseurl": "https://es.wikipedia.org",
+    "date_format": "HH:mm DD MMM YYYY",
+    "locale": "es"
+  }
+}
